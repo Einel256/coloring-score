@@ -1,0 +1,9 @@
+@import '@vexflow-fonts/bravura';
+@import '@vexflow-fonts/academico';
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;600;700&display=swap');
+
+:root { font-family: 'DM Sans', 'Zen Kaku Gothic New', sans-serif; color: #252722; background: #f2f1ec; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; font-size: 14px; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 360px; min-height: 100vh; }
+button, input { font: inherit; }
+button { color: inherit; }
